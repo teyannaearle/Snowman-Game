@@ -1,4 +1,4 @@
-## Snowman
+## Snowman :snowman:
 **_A guessing game in which you attempt to guess a word, letter by letter._**
 ![Gameplay Giphy](https://github.com/teyannaearle/Snowman-Game/blob/main/SnowmanGiphy.gif?raw=true)
 
