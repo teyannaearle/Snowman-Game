@@ -15,6 +15,8 @@
 
 ``` const readline = require('readline-sync'); ``` 
 
-``` readline.keyInYNStrict("Want to play again?") ? replay() : quitGame() ``` 
+```javascript 
+readline.keyInYNStrict("Want to play again?") ? replay() : quitGame() 
 
-^^  User enters Y or N to either replay or quit game
+// User enters Y or N to either replay or quit game
+```
